@@ -28,8 +28,8 @@ This project implements:
 
 ## Features
 
-- 📥 Fetch data using GraphQL **queries**
-- ✏️ Modify data using **mutations**
-- 📊 Structured GraphQL schema
-- ⚡ Efficient data fetching (no over-fetching or under-fetching)
-- 🔄 JSON-like data consistency from client → server → database
+- Fetch data using GraphQL **queries**
+- Modify data using **mutations**
+- Structured GraphQL schema
+- Efficient data fetching (no over-fetching or under-fetching)
+- JSON-like data consistency from client → server → database
